@@ -23,7 +23,7 @@ const Blog = () => {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Non,
                   dicta.
                 </p>
-                <a href="#" class="btn">
+                <a href="menu#" class="btn">
                   read more
                 </a>
               </div>

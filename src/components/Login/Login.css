@@ -1,0 +1,28 @@
+
+.container{
+   
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 100vh;
+}
+.outercard {
+    height: 500px;
+    width: 360;
+    margin-top: 80px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+  }
+  
+  @media (max-width: 768px) {
+    .outercard {
+      height: 40vh;
+      width: 80%;
+      margin-top: 40px;
+      padding: 10px;
+    }
+  }

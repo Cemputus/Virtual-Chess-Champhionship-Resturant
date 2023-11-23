@@ -10,7 +10,7 @@ const Contact = () => {
         <div class="row">
           <iframe
             class="map"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11993.267641772954!2d-72.8480109!3d41.2802068!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36c6fa619c4f5603!2sMcDonald&#39;s!5e0!3m2!1sen!2s!4v1633364807635!5m2!1sen!2s"
+            src="https://www.google.com/maps/dir/0.3079514,32.5712095/9P5X%2BWF9+KFC+Mukono,+Mukono/@0.3396112,32.4951164,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x177dc721659a1185:0x2d553df8a51ccab1!2m2!1d32.7486691!2d0.3598184?entry=ttu"
             allowfullscreen=""
             loading="lazy"
           ></iframe>

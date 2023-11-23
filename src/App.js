@@ -9,6 +9,8 @@ import Review from "./components/Review";
 import Contact from "./components/Contact";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
+import { BrowserRouter as Router, Routes,Route } from "react-router-dom";
+
 
 const App = () => {
   return (
@@ -31,7 +33,6 @@ export default App;
 
 // import React from "react";
 // import { BrowserRouter as Router, Route } from "react-router-dom";
-// import "./assets/css/style.css";
 // import Navbar from "./components/Navbar";
 // import Home from "./components/Home";
 // import About from "./components/About";
@@ -59,4 +60,3 @@ export default App;
 // };
 
 // export default App;
-

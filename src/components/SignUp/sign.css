@@ -1,0 +1,20 @@
+.container{
+    background-image: url(${backgroundImage});
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 100vh;
+}
+.outercard{
+    height: 500px;
+    width: 360;
+    margin-top: 80px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
